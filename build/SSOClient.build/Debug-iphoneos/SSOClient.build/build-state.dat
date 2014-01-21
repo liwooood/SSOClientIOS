@@ -1,0 +1,133 @@
+TSSOClient
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.pch SSOClient/SSOClient-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.o /Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/libSSOClient.a normal armv7
+cPBXCp SSOClient/SSOClient.h build/Debug-iphoneos/include/SSOClient/SSOClient.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843B10000000000A92BC0
+t1383613361
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient-Prefix.pch
+c0000000052DE7F4700000000000000B6
+t1390313287
+s182
+
+N/Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.h
+c0000000052DE7F4700000000000000C4
+t1390313287
+s196
+
+N/Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m
+c0000000052DE7F4700000000000000B2
+t1390313287
+s178
+
+N/Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/include/SSOClient/SSOClient.h
+t2
+s0
+
+N/Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/libSSOClient.a
+t2
+s0
+
+N/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.LinkFileList
+c0000000052DE7F4D0000000000000079
+t1390313293
+s121
+
+N/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.o
+t1390313293
+s3480
+
+N/var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.pch
+t1390313293
+s83560
+
+CBuild AST from /Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies334e8fcdb68eb841^4f9399cdb68eb841^---0#1#1#--18"Check dependencies36"E6426611-BA04-4A66-A4DD-D3D93287A4DC-
+
+CCompileC build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.o /Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412006093.731653
+e412006093.764836
+r1
+xCompileC
+xbuild/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.o
+x/Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m
+d/Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m185"CompileC build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.o SSOClient/SSOClient.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerec6dbbcdb68eb841^8fe3c3cdb68eb841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m0000000000000000^3338"CompileC build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.o SSOClient/SSOClient.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chf/workspace_ios/SSOClient    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/chf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/SSOClient-generated-files.hmap -I/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/SSOClient-own-target-headers.hmap -I/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/SSOClient-all-target-headers.hmap -iquote /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/SSOClient-project-headers.hmap -I/Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/DerivedSources/armv7 -I/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/DerivedSources -F/Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos -include /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch -MMD -MT dependencies -MF /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.d --serialize-diagnostics /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.dia -c /Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.m -o /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.o36"B7F62C03-DF0F-4A9D-9BB0-35FC31EFE296-
+bE8A65F90-22F6-4F92-9D04-1925F3F54109
+
+CLibtool /Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/libSSOClient.a normal armv7
+s412006093.765821
+e412006093.775559
+r1
+xLibtool
+x/Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/libSSOClient.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Libtool build/Debug-iphoneos/libSSOClient.a normal armv756"Libtool build/Debug-iphoneos/libSSOClient.a normal armv70821c4cdb68eb841^4a9bc6cdb68eb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--869"Libtool build/Debug-iphoneos/libSSOClient.a normal armv7    cd /Users/chf/workspace_ios/SSOClient    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos -filelist /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.LinkFileList -ObjC -framework Foundation -o /Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/libSSOClient.a36"931BCAA7-932E-4E73-925F-321597695314-
+bE8A65F90-22F6-4F92-9D04-1925F3F54109
+
+CPBXCp SSOClient/SSOClient.h build/Debug-iphoneos/include/SSOClient/SSOClient.h
+s412006093.776125
+e412006093.777118
+r1
+xPBXCp
+xSSOClient/SSOClient.h
+xbuild/Debug-iphoneos/include/SSOClient/SSOClient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphoneos/include/SSOClient/SSOClient.h78"PBXCp SSOClient/SSOClient.h build/Debug-iphoneos/include/SSOClient/SSOClient.h83c0c6cdb68eb841^ccf1c6cdb68eb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/include/SSOClient/SSOClient.h00347065dfffdf42^552"PBXCp SSOClient/SSOClient.h build/Debug-iphoneos/include/SSOClient/SSOClient.h    cd /Users/chf/workspace_ios/SSOClient    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient.h /Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/include/SSOClient36"44960CE5-2D4C-434F-97D7-877263B56B64-
+bE8A65F90-22F6-4F92-9D04-1925F3F54109
+
+CProcessPCH /Users/chf/Library/Developer/Xcode/DerivedData/SSOClient-gaxdxadzelmikwgwpvbnnapjwjlo/Index/PrecompiledHeaders/SSOClient-Prefix-fzyweidxiyxlegbtkzumfzrqjrfk_ast/SSOClient-Prefix.pch.pch SSOClient/SSOClient-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.pch SSOClient/SSOClient-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412006093.601114
+e412006093.730531
+r1
+xProcessPCH
+x/var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.pch
+xSSOClient/SSOClient-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SSOClient/SSOClient-Prefix.pch299"ProcessPCH /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.pch SSOClient/SSOClient-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler36059acdb68eb841^1404bbcdb68eb841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient-Prefix.pch0000000000000000^3474"ProcessPCH /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.pch SSOClient/SSOClient-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/chf/workspace_ios/SSOClient    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/chf/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/SSOClient-generated-files.hmap -I/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/SSOClient-own-target-headers.hmap -I/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/SSOClient-all-target-headers.hmap -iquote /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/SSOClient-project-headers.hmap -I/Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/DerivedSources/armv7 -I/Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/DerivedSources -F/Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos --serialize-diagnostics /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.d -c /Users/chf/workspace_ios/SSOClient/SSOClient/SSOClient-Prefix.pch -o /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.pch36"1FDC2EB0-0DCE-4F43-B970-C7915DED891C-
+bE8A65F90-22F6-4F92-9D04-1925F3F54109
+

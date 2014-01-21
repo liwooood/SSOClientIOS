@@ -1,0 +1,4 @@
+0000000052de7f4700000000000000c4 d721e65abbbb5f8810adb7f73dc4141c ffffffffffffffffffffffffffffffff 0 /Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/include/SSOClient/SSOClient.h
+ba6ff4e3ccc22775f931b7bec07daf5d 3a7d8339498d235da2cbbee34ca34642 ffffffffffffffffffffffffffffffff 0 /Users/chf/workspace_ios/SSOClient/build/Debug-iphoneos/libSSOClient.a
+4313de6ae794ecc0db02994f82b93ba2 f97c2a8979a6b5a722332ef1426dbe56 ffffffffffffffffffffffffffffffff 3480 /Users/chf/workspace_ios/SSOClient/build/SSOClient.build/Debug-iphoneos/SSOClient.build/Objects-normal/armv7/SSOClient.o
+0000000052f004270000000000000bdf 4313de6ae7ba97a0db02994f82b930cf ffffffffffffffffffffffffffffffff 83560 /var/folders/_s/6y0xv1392fd5cmtwzrdfn7s40000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SSOClient-Prefix-gjgkrlatswkvngeldzzsrtvbumpg/SSOClient-Prefix.pch.pch
